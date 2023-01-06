@@ -7,16 +7,6 @@
     <title>Formulaire</title>
 </head>
 <body>
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/css/style.css">
-    <title>Contact</title>
-</head>
-<body>
     <header>
         <img src="src/img/jarditou_logo.jpg" alt="jarditou logo" title="jarditou logo" class="logo">
         <p class="slogan">Tout le jardin</p>
